@@ -33,7 +33,7 @@ myresult = st.data_editor(
     disabled=["Gade", "Beholder"],
     hide_index=True,
     key="er_tomt",
-    use_container_width=True,
+    use_container_width=False,
 )
 
 #st.write("Here's the session state:")
